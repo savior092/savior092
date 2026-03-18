@@ -1,4 +1,8 @@
 ## Hi there 👋
+```
+- To report problems, email: onur@notreally.xyz
+```
+
 
 <!--
 **savior092/savior092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
