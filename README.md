@@ -1,6 +1,7 @@
 ## Hi there 👋
 ```
 - To report problems, email: onur@notreally.xyz
+- To make a business offer, email: onur@notreally.xyz
 ```
 
 
