@@ -1,9 +1,9 @@
 ## Hi there 👋
 ```
-- To report problems, email: onur@notreally.xyz
+- To report problems, email: report@berlinxr.cfd
 ```
 ```
-- To make a business offer, email: onur@notreally.xyz
+- To make a business offer, email: onur@berlinxr.cfd
 ```
 
 
